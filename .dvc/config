@@ -1,0 +1,4 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = /home/jangcs/NFS_Data/crms-models/nfs-vit_l_32/
